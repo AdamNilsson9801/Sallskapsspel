@@ -1,0 +1,2 @@
+# Sallskapsspel
+ Kandidatprojekt
